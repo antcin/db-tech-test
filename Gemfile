@@ -4,6 +4,7 @@ ruby '2.5.0'
 gem 'capybara'
 gem 'selenium-webdriver'
 gem 'pg'
+gem 'pry'
 gem 'rake'
 gem 'rspec'
 gem 'simplecov', require: false, group: :test

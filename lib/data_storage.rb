@@ -1,0 +1,3 @@
+class DataStorage
+  
+end
